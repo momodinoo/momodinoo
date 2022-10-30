@@ -49,7 +49,7 @@
 
 <h2>Trophies</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=momodinoo&theme=radical&title=Joined2020,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=momodinoo&theme=radical&title=Joined2020,Commits,Followers,Repositories)](https://github.com/momodinoo/github-profile-trophy)
 
 <hr>
 
