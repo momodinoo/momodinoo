@@ -4,7 +4,6 @@
 </p>
 
 <h2>Used languages</h2>
-<hr>
 <p>
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -30,7 +29,6 @@
 <h2>
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30">
 </h2>
-<hr>
 <p>
   <img src="https://github.com/Jajanken78/Jajanken78/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
@@ -39,7 +37,6 @@
 <h2>
   My GitHub Stats <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 </h2>
-<hr>
 <p>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jajanken78&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
@@ -51,7 +48,6 @@
 </p>
 
 <h2>Trophies</h2>
-<hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jajanken78&theme=radical&title=Joined2020,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
