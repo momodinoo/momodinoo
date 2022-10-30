@@ -1,5 +1,4 @@
 <h1>Jajanken78</h1>
-<hr>
 <p>
   I'm a 2nd year student pursuing studies in Computer Sciences 🎓 in Paris 🏛.
 </p>
