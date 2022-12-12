@@ -1,13 +1,13 @@
-<h1>Morgane - Momodino</h1>
+<h1>Morgane BRETON - Momodino</h1>
 <p>
   I'm a 2nd year student pursuing studies in Computer Sciences 🎓 in Paris 🏛.
 </p>
 
 <h2>Used languages</h2>
 <p>
+    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>    
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
     <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
 </p>
 <p>
@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+    <img src="https://img.shields.io/badge/-PHP-white?style=flat-square&logo=php"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle&logoColor=white"/>
@@ -42,9 +43,6 @@
 </p>
 <p>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=momodinoo&theme=radical">
-</p>
-<p>
- <img src="https://activity-graph.herokuapp.com/graph?username=momodinoo&theme=redical">
 </p>
 
 <h2>Trophies</h2>
