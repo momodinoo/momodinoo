@@ -1,4 +1,4 @@
-<h1>Morgane - Momodino</h1>
+<h1>Morgane BRETON - Momodino</h1>
 <p>
   I'm a 2nd year student pursuing studies in Computer Sciences 🎓 in Paris 🏛.
 </p>
