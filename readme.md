@@ -5,9 +5,7 @@
 
 <h2>Used languages</h2>
 <p>
-    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>    
-    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
     <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
 </p>
 <p>
