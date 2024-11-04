@@ -1,6 +1,6 @@
 <h1>Morgane BRETON - Momodino</h1>
 <p>
-  I'm a 3rd year student pursuing studies in Computer Sciences 🎓 in Paris 🏛.
+  I'm a 3rd(²) year student pursuing studies in Computer Sciences 🎓 in Paris 🏛.
 </p>
 
 <h2>
