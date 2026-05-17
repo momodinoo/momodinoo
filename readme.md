@@ -10,9 +10,6 @@
 <p>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=momodinoo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
-<p>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=momodinoo&theme=radical">
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=momodinoo&theme=radical&title=Joined2020,Commits)](https://github.com/momodinoo/github-profile-trophy)
 
